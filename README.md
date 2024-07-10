@@ -49,24 +49,20 @@ This project develops a comprehensive credit risk model and scorecard using mach
 For detailed usage of individual components, refer to the documentation in each module.
 
 ## Project Structure
-credit-risk-model/
-│
-├── data/
-│   └── loan_data_2015.csv
-│
-├── notebooks/
-│   └── credit_risk_model_development.ipynb
-│
-├── src/
-│   ├── data_preparation.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   └── scorecard_development.py
-│
-├── README.md
-├── requirements.txt
-└── main.py
 
+- `credit-risk-model/`
+  - `data/`
+    - `loan_data_2015.csv`
+  - `notebooks/`
+    - `credit_risk_model_development.ipynb`
+  - `src/`
+    - `data_preparation.py`
+    - `feature_engineering.py`
+    - `model_training.py`
+    - `scorecard_development.py`
+  - `README.md`
+  - `requirements.txt`
+  - `main.py`
 ## Methodology
 
 1. **Data Import and Exploration**
