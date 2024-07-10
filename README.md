@@ -42,8 +42,8 @@ This project develops a comprehensive credit risk model and scorecard using mach
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/rochitanshs/credit-risk-model.git
-2. Navigate to the project directory: cd credit-risk-model
+1. Clone the repository: git clone (https://github.com/rochitanshs/Credit-Risk-Scorecard.git)
+2. Navigate to the project directory: cd Credit-Risk-Scorecard
 3. Install required packages: pip install -r requirements.txt
 
 For detailed usage of individual components, refer to the documentation in each module.
@@ -120,4 +120,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Rochitansh Singh - www.linkedin.com/in/rochitanshsingh - rochitansh@gmail.com
 
-Project Link: [https://github.com/rochitashs/credit-risk-model](https://github.com/rochitanshs/credit-risk-model)
+Project Link: [https://github.com/rochitanshs/Credit-Risk-Scorecard](https://github.com/rochitanshs/Credit-Risk-Scorecard)
